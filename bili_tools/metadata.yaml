@@ -1,0 +1,11 @@
+name: bili_tools
+display_name: B站搜索工具
+short_desc: 让 AI 按关键词搜 B 站视频、按名字找 UP 主、拉取 UP 主最新投稿（带播放量）
+desc: 为 AstrBot 提供 bili_search_video / bili_search_user / bili_user_videos 三个 LLM 工具，基于 bilibili-api 的公开接口，返回标题、UP 主、播放量、时长和链接。
+version: 1.0.0
+author: whalebot2
+repo: https://github.com/
+tags:
+  - B站
+  - 搜索
+  - 工具

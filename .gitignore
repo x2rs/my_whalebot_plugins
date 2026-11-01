@@ -1,0 +1,11 @@
+# 只跟踪自己写的 4 个插件
+/*
+!.gitignore
+!astrbot_plugin_pgr_score/
+!bili_tools/
+!chat_history/
+!msg_archive/
+
+# 通用排除
+__pycache__/
+*.pyc

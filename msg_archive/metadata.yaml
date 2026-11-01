@@ -1,0 +1,11 @@
+name: msg_archive
+display_name: 消息归档
+short_desc: 把收到的消息（含图片描述、语音转写）落库，按时间/关键词秒查，替代现场翻页
+desc: 为 AstrBot 提供消息归档库与 search_archive / archive_backfill 两个工具。收到每条消息时写入 SQLite（文本 + 图片/语音占位），图片描述从 private_companion 已生成的 caption 捡现成，语音转写来自 STT；查询走 SQL，毫秒级。
+version: 1.0.0
+author: whalebot2
+repo: https://github.com/
+tags:
+  - 记忆
+  - 归档
+  - 工具
