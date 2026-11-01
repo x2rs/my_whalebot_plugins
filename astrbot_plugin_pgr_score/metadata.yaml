@@ -2,5 +2,5 @@ name: astrbot_plugin_pgr_score
 display_name: Phigros传分
 desc: 引用 Phigros 成绩图后回复 /传分，自动识别并入库（按 QQ 绑定），支持严判/课题/宽判。
 help: 引用成绩图后 /pgr u 传分；/pgr r10 查最近成绩（-n/-s/-a 过滤，-d 细节，-e 次难度，-i 图片表格）；/pgr set 改默认显示；/pgr b10 单曲 rks（未实现）
-version: 1.0.0
-author: whalebot2
+version: 1.0.1
+author: x2rs

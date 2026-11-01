@@ -2,9 +2,8 @@ name: chat_history
 display_name: 聊天记录查询
 short_desc: 让 AI 主动翻当前会话的聊天记录（群聊/私聊），按时间、关键词、条数筛选
 desc: 为 AstrBot 提供 read_chat_history 工具，通过 OneBot 的 get_group_msg_history / get_friend_msg_history 拉取当前群聊或私聊的历史消息，绕过上下文压缩，模型可自行总结一整天或检索关键词。
-version: 1.0.0
-author: whalebot2
-repo: https://github.com/
+version: 1.0.1
+author: x2rs
 tags:
   - 聊天记录
   - 工具
