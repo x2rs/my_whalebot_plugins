@@ -92,11 +92,33 @@ class ScoreDatabase:
                 self._rebuild_settings_table()
             self._conn.commit()
         self.catalog: list[dict] = []
-        if catalog_paths:
-            for path in catalog_paths:
-                if Path(path).is_file():
-                    self.sync_catalog(Path(path))
-                    break
+        self.game_version: str = ""
+        loaded = False
+        for path in catalog_paths or []:
+            if Path(path).is_file():
+                self.sync_catalog(Path(path))
+                loaded = True
+                break
+        if not loaded:
+            # 没有曲库文件时，用上次同步进库的 songs 表兜底，避免曲名匹配直接失效
+            self._load_catalog_from_db()
+
+    def _load_catalog_from_db(self) -> None:
+        with self._lock:
+            rows = self._conn.execute(
+                "SELECT song_id, title, chapter, bpm, difficulty_json, alias_json FROM songs"
+            ).fetchall()
+        self.catalog = [
+            {
+                "id": row["song_id"],
+                "title": row["title"],
+                "chapter": row["chapter"],
+                "bpm": row["bpm"],
+                "difficulty": json.loads(row["difficulty_json"] or "{}"),
+                "alias": json.loads(row["alias_json"] or "[]"),
+            }
+            for row in rows
+        ]
 
     # ---------- 曲库 ----------
     def sync_catalog(self, path: Path) -> int:
@@ -104,6 +126,8 @@ class ScoreDatabase:
         songs = data.get("data")
         if not isinstance(songs, list):
             raise ValueError("songs.json 里没有 data 数组")
+        # 曲库对应的游戏版本：新格式叫 game_version，旧格式叫 version
+        self.game_version = str(data.get("game_version") or data.get("version") or "")
         self.catalog = songs
         rows = []
         for song in songs:

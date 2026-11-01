@@ -1,0 +1,5419 @@
+{
+  "game_version": "4.0.1.2",
+  "lastUpdate": "2026-10-11",
+  "latestUpdateSongIds": [
+    "Chapter_9_12",
+    "Chapter_9_11",
+    "Chapter_9_10",
+    "Chapter_9_9",
+    "Chapter_9_8",
+    "Chapter_9_7",
+    "Chapter_9_6",
+    "Chapter_9_5",
+    "Chapter_9_4",
+    "Chapter_9_2",
+    "Chapter_9_3",
+    "Chapter_9_1",
+    "single_145"
+  ],
+  "data": [
+    {
+      "id": "Chapter_9_12",
+      "bpm": 219,
+      "title": "What do you want more than a Happy ending?",
+      "difficulty": {
+        "ez": 0.5,
+        "hd": 11.5,
+        "in": 16.1,
+        "at": 17.1
+      },
+      "chapter": "",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_12.webp",
+      "cover": "covers/Chapter_9_12.webp"
+    },
+    {
+      "id": "Chapter_9_11",
+      "bpm": 220,
+      "title": "Message",
+      "difficulty": {
+        "ez": 3,
+        "hd": 13.2,
+        "in": 15.6,
+        "at": 16.5
+      },
+      "chapter": "",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_11.webp",
+      "cover": "covers/Chapter_9_11.webp"
+    },
+    {
+      "id": "Chapter_9_10",
+      "bpm": 202,
+      "title": "Desultory Signals",
+      "difficulty": {
+        "ez": 10,
+        "hd": 14,
+        "in": 17,
+        "at": 18
+      },
+      "chapter": "",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_10.webp",
+      "cover": "covers/Chapter_9_10.webp"
+    },
+    {
+      "id": "Chapter_9_9",
+      "bpm": 220.5,
+      "title": "ハテ",
+      "difficulty": {
+        "ez": 9,
+        "hd": 13.9,
+        "in": 16.7,
+        "at": 17.9
+      },
+      "chapter": "",
+      "alias": [
+        "Hate",
+        "尽头"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_9.webp",
+      "cover": "covers/Chapter_9_9.webp"
+    },
+    {
+      "id": "Chapter_9_8",
+      "bpm": 163,
+      "title": "Petrichor",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 13.8,
+        "in": 16.5,
+        "at": 17.5
+      },
+      "chapter": "",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_8.webp",
+      "cover": "covers/Chapter_9_8.webp"
+    },
+    {
+      "id": "Chapter_9_7",
+      "bpm": 180,
+      "title": "Ametrine",
+      "difficulty": {
+        "ez": 6,
+        "hd": 12.2,
+        "in": 15,
+        "at": 16.2
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_7.webp",
+      "cover": "covers/Chapter_9_7.webp"
+    },
+    {
+      "id": "Chapter_9_6",
+      "bpm": 220,
+      "title": "True Home, True World (Rework)",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.9,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_6.webp",
+      "cover": "covers/Chapter_9_6.webp"
+    },
+    {
+      "id": "single_145",
+      "bpm": 145,
+      "title": "Cryogenic ",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.8,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/single_145.webp",
+      "cover": "covers/single_145.webp"
+    },
+    {
+      "id": "Chapter_9_5",
+      "bpm": 192,
+      "title": "Exoplanetary Mirage",
+      "difficulty": {
+        "ez": 8.7,
+        "hd": 13.4,
+        "in": 16.8,
+        "at": 17.9
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [
+        "系外幻象",
+        "九鸟架狙",
+        "米垃圾"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_5.webp",
+      "cover": "covers/Chapter_9_5.webp"
+    },
+    {
+      "id": "Chapter_9_4",
+      "bpm": 207,
+      "title": "Entrance to the Chaos",
+      "difficulty": {
+        "ez": 8.8,
+        "hd": 13.7,
+        "in": 16.8,
+        "at": 17.6
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [
+        "超市入口",
+        "混乱入口"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_4.webp",
+      "cover": "covers/Chapter_9_4.webp"
+    },
+    {
+      "id": "Chapter_9_2",
+      "bpm": 150,
+      "title": "Implexrough",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.2,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_2.webp",
+      "cover": "covers/Chapter_9_2.webp"
+    },
+    {
+      "id": "Chapter_9_3",
+      "bpm": 190,
+      "title": "Evanescent",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.6,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_3.webp",
+      "cover": "covers/Chapter_9_3.webp"
+    },
+    {
+      "id": "Chapter_9_1",
+      "bpm": 180,
+      "title": "About The Universe",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.7,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Chapter 9 穹顶孤舟",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_9_1.webp",
+      "cover": "covers/Chapter_9_1.webp"
+    },
+    {
+      "id": "Single_135",
+      "bpm": 222,
+      "title": "After ZABANIYA (MUG Edit) ",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.6,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_135.webp",
+      "cover": "covers/Single_135.webp"
+    },
+    {
+      "id": "Special_13",
+      "bpm": 185,
+      "title": "Oblivion: PHIN",
+      "difficulty": {
+        "ez": 0,
+        "hd": 0,
+        "in": 0,
+        "at": "",
+        "sp": "?"
+      },
+      "chapter": "愚人节",
+      "alias": [
+        "26年愚人节"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Special_13.webp",
+      "cover": "covers/Special_13.webp"
+    },
+    {
+      "id": "Chapter_Legacy_1",
+      "bpm": 140,
+      "title": "Glaciaxion",
+      "difficulty": {
+        "ez": 1,
+        "hd": 6.5,
+        "in": 12.6,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "冰川"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_1.webp",
+      "cover": "covers/Chapter_Legacy_1.webp"
+    },
+    {
+      "id": "Chapter_Legacy_2",
+      "bpm": 120,
+      "title": "Eradication Catastrophe",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 7.5,
+        "in": 12.7,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_2.webp",
+      "cover": "covers/Chapter_Legacy_2.webp"
+    },
+    {
+      "id": "Chapter_Legacy_3",
+      "bpm": 179,
+      "title": "Credits",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.4,
+        "in": 13.6,
+        "at": 15.8
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_3.webp",
+      "cover": "covers/Chapter_Legacy_3.webp"
+    },
+    {
+      "id": "Chapter_Legacy_4",
+      "bpm": 175,
+      "title": "Dlyrotz",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.1,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "德利"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_4.webp",
+      "cover": "covers/Chapter_Legacy_4.webp"
+    },
+    {
+      "id": "Chapter_Legacy_5",
+      "bpm": 186,
+      "title": "Engine x Start!! (melody mix)",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 8.3,
+        "in": 13.2,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "EXS"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_5.webp",
+      "cover": "covers/Chapter_Legacy_5.webp"
+    },
+    {
+      "id": "Chapter_Legacy_6",
+      "bpm": 180,
+      "title": "光",
+      "difficulty": {
+        "ez": 2,
+        "hd": 7.5,
+        "in": 12.4,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_6.webp",
+      "cover": "covers/Chapter_Legacy_6.webp"
+    },
+    {
+      "id": "Chapter_Legacy_7",
+      "bpm": 104,
+      "title": "Winter ↑cube↓",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.2,
+        "in": 13.3,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "冬方块"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_7.webp",
+      "cover": "covers/Chapter_Legacy_7.webp"
+    },
+    {
+      "id": "Chapter_Legacy_8",
+      "bpm": 180,
+      "title": "混乱-Confusion",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_8.webp",
+      "cover": "covers/Chapter_Legacy_8.webp"
+    },
+    {
+      "id": "Chapter_Legacy_9",
+      "bpm": 179,
+      "title": "Cipher : /2&//<|0",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.3,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_9.webp",
+      "cover": "covers/Chapter_Legacy_9.webp"
+    },
+    {
+      "id": "Chapter_Legacy_10",
+      "bpm": 145,
+      "title": "FULi AUTO SHOOTER",
+      "difficulty": {
+        "ez": 3,
+        "hd": 9,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "福利自动射"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_10.webp",
+      "cover": "covers/Chapter_Legacy_10.webp"
+    },
+    {
+      "id": "Chapter_Legacy_11",
+      "bpm": 180,
+      "title": "HumaN",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8,
+        "in": 12.9,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_11.webp",
+      "cover": "covers/Chapter_Legacy_11.webp"
+    },
+    {
+      "id": "Chapter_Legacy_12",
+      "bpm": 210,
+      "title": "[PRAW]",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.6,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_12.webp",
+      "cover": "covers/Chapter_Legacy_12.webp"
+    },
+    {
+      "id": "Chapter_Legacy_13",
+      "bpm": 175,
+      "title": "Cereris",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.9,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "科目二"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_13.webp",
+      "cover": "covers/Chapter_Legacy_13.webp"
+    },
+    {
+      "id": "Chapter_Legacy_14",
+      "bpm": 150,
+      "title": "Pixel Rebelz",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.7,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "像素人"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_14.webp",
+      "cover": "covers/Chapter_Legacy_14.webp"
+    },
+    {
+      "id": "Chapter_Legacy_15",
+      "bpm": 205,
+      "title": "Non-Melodic Ragez(MUG Edit)",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.6,
+        "in": 16.1,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "NMR",
+        "你骂人",
+        "无能狂怒"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_15.webp",
+      "cover": "covers/Chapter_Legacy_15.webp"
+    },
+    {
+      "id": "Chapter_Legacy_16",
+      "bpm": 155,
+      "title": "Sultan Rage",
+      "difficulty": {
+        "ez": 4,
+        "hd": 7,
+        "in": 12.2,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "苏丹之怒"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_16.webp",
+      "cover": "covers/Chapter_Legacy_16.webp"
+    },
+    {
+      "id": "Chapter_Legacy_17",
+      "bpm": 145,
+      "title": "Class Memories",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.8,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "交互课堂",
+        "课堂记忆"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_17.webp",
+      "cover": "covers/Chapter_Legacy_17.webp"
+    },
+    {
+      "id": "Chapter_Legacy_18",
+      "bpm": 180,
+      "title": "-SURREALISM-",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.4,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "超现实主义"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_18.webp",
+      "cover": "covers/Chapter_Legacy_18.webp"
+    },
+    {
+      "id": "Chapter_Legacy_19",
+      "bpm": 180,
+      "title": "Bonus Time",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.3,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [
+        "奖励时间"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_19.webp",
+      "cover": "covers/Chapter_Legacy_19.webp"
+    },
+    {
+      "id": "Chapter_Legacy_20",
+      "bpm": 160,
+      "title": "ENERGY SYNERGY MATRIX",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.5,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Chapter Legacy 过去的章节",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Legacy_20.webp",
+      "cover": "covers/Chapter_Legacy_20.webp"
+    },
+    {
+      "id": "Chapter_5_1",
+      "bpm": 154,
+      "title": "NYA!!!(Phigros ver.)",
+      "difficulty": {
+        "ez": 2,
+        "hd": 8.6,
+        "in": 13.1,
+        "at": ""
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "nya"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_1.webp",
+      "cover": "covers/Chapter_5_1.webp"
+    },
+    {
+      "id": "Chapter_5_2",
+      "bpm": 164,
+      "title": "JunXion Between Life And Death(VIP Mix)",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.7,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "俊雄半死不活"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_2.webp",
+      "cover": "covers/Chapter_5_2.webp"
+    },
+    {
+      "id": "Chapter_5_3",
+      "bpm": 180,
+      "title": "cryout",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.9,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_3.webp",
+      "cover": "covers/Chapter_5_3.webp"
+    },
+    {
+      "id": "Chapter_5_4",
+      "bpm": 185,
+      "title": "Reimei",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.7,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "黎明"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_4.webp",
+      "cover": "covers/Chapter_5_4.webp"
+    },
+    {
+      "id": "Chapter_5_5",
+      "bpm": 152,
+      "title": "尊師 ～The Guru～",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.6,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "尊师"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_5.webp",
+      "cover": "covers/Chapter_5_5.webp"
+    },
+    {
+      "id": "Chapter_5_6",
+      "bpm": 200,
+      "title": "Spasmodic",
+      "difficulty": {
+        "ez": 8.2,
+        "hd": 12.9,
+        "in": 15.5,
+        "at": 16.7
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "痉挛"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_6.webp",
+      "cover": "covers/Chapter_5_6.webp"
+    },
+    {
+      "id": "Chapter_5_7",
+      "bpm": 150,
+      "title": "Leave All Behind",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.9,
+        "in": 12.7,
+        "at": 15
+      },
+      "chapter": "Chapter 5 霓虹灯牌",
+      "alias": [
+        "LAB"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_5_7.webp",
+      "cover": "covers/Chapter_5_7.webp"
+    },
+    {
+      "id": "Chapter_6_1",
+      "bpm": 136,
+      "title": "Colorful Days♪",
+      "difficulty": {
+        "ez": 5,
+        "hd": 7,
+        "in": 12.6,
+        "at": ""
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [
+        "彩日"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_1.webp",
+      "cover": "covers/Chapter_6_1.webp"
+    },
+    {
+      "id": "Chapter_6_2",
+      "bpm": 172,
+      "title": "micro.wav",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.5,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [
+        "微波炉"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_2.webp",
+      "cover": "covers/Chapter_6_2.webp"
+    },
+    {
+      "id": "Chapter_6_3",
+      "bpm": 195,
+      "title": "重生",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 8.8,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_3.webp",
+      "cover": "covers/Chapter_6_3.webp"
+    },
+    {
+      "id": "Chapter_6_4",
+      "bpm": 170,
+      "title": "NO ONE YES MAN",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.9,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [
+        "没一个是人",
+        "NOYM"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_4.webp",
+      "cover": "covers/Chapter_6_4.webp"
+    },
+    {
+      "id": "Chapter_6_5",
+      "bpm": 209,
+      "title": "望影の方舟Six",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.9,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [
+        "望影方舟"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_5.webp",
+      "cover": "covers/Chapter_6_5.webp"
+    },
+    {
+      "id": "Chapter_6_6",
+      "bpm": 230,
+      "title": "Igallta",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.2,
+        "in": 16.1,
+        "at": 17.4
+      },
+      "chapter": "Chapter 6 方舟蜃景",
+      "alias": [
+        "Iga",
+        "姐姐砍我"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_6_6.webp",
+      "cover": "covers/Chapter_6_6.webp"
+    },
+    {
+      "id": "Chapter_7_1",
+      "bpm": 140,
+      "title": "Clock Paradox",
+      "difficulty": {
+        "ez": 2,
+        "hd": 6,
+        "in": 12.5,
+        "at": ""
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "时悖",
+        "雪漠钟"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_1.webp",
+      "cover": "covers/Chapter_7_1.webp"
+    },
+    {
+      "id": "Chapter_7_2",
+      "bpm": 180,
+      "title": "Chronologika",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.8,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "时序"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_2.webp",
+      "cover": "covers/Chapter_7_2.webp"
+    },
+    {
+      "id": "Chapter_7_3",
+      "bpm": 175,
+      "title": "Nick of Time",
+      "difficulty": {
+        "ez": 6,
+        "hd": 9.3,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "时隙"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_3.webp",
+      "cover": "covers/Chapter_7_3.webp"
+    },
+    {
+      "id": "Chapter_7_4",
+      "bpm": 227,
+      "title": "Chronomia",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11.1,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "天文钟"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_4.webp",
+      "cover": "covers/Chapter_7_4.webp"
+    },
+    {
+      "id": "Chapter_7_5",
+      "bpm": 180,
+      "title": "Chronos Collapse - La Campanella",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 12.5,
+        "in": 16.3,
+        "at": ""
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "李斯特钟",
+        "李老头"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_5.webp",
+      "cover": "covers/Chapter_7_5.webp"
+    },
+    {
+      "id": "Chapter_7_6",
+      "bpm": 190,
+      "title": "Rrhar'il",
+      "difficulty": {
+        "ez": 7,
+        "hd": 12.7,
+        "in": 16.1,
+        "at": 17.6
+      },
+      "chapter": "Chapter 7 时钟链接",
+      "alias": [
+        "猫娘",
+        "Rr"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_7_6.webp",
+      "cover": "covers/Chapter_7_6.webp"
+    },
+    {
+      "id": "Chapter_8_1",
+      "bpm": 150,
+      "title": "Crave Wave",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 8,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_1.webp",
+      "cover": "covers/Chapter_8_1.webp"
+    },
+    {
+      "id": "Chapter_8_2",
+      "bpm": 190,
+      "title": "The Chariot ~REVIIVAL~",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9,
+        "in": 14,
+        "at": ""
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [
+        "战车"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_2.webp",
+      "cover": "covers/Chapter_8_2.webp"
+    },
+    {
+      "id": "Chapter_8_3",
+      "bpm": 184,
+      "title": "Luminescence",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [
+        "冷光"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_3.webp",
+      "cover": "covers/Chapter_8_3.webp"
+    },
+    {
+      "id": "Chapter_8_4",
+      "bpm": 190,
+      "title": "Retribution",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.6,
+        "in": 16.2,
+        "at": ""
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [
+        "报应"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_4.webp",
+      "cover": "covers/Chapter_8_4.webp"
+    },
+    {
+      "id": "Chapter_8_5",
+      "bpm": 321.321,
+      "title": "DESTRUCTION 3,2,1",
+      "difficulty": {
+        "ez": 8.5,
+        "hd": 13.1,
+        "in": 16.3,
+        "at": 17.3
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [
+        "毁灭321",
+        "321"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_5.webp",
+      "cover": "covers/Chapter_8_5.webp"
+    },
+    {
+      "id": "Chapter_8_6",
+      "bpm": 150,
+      "title": "Distorted Fate",
+      "difficulty": {
+        "ez": 8.1,
+        "hd": 13.5,
+        "in": 16.3,
+        "at": 17.4
+      },
+      "chapter": "Chapter 8 凌日潮汐",
+      "alias": [
+        "DF",
+        "骨折鸠"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_8_6.webp",
+      "cover": "covers/Chapter_8_6.webp"
+    },
+    {
+      "id": "Side_Story_1_1",
+      "bpm": 175,
+      "title": "Ποσειδών",
+      "difficulty": {
+        "ez": 6,
+        "hd": 8.8,
+        "in": 12.8,
+        "at": 16.2
+      },
+      "chapter": "Side Story 1 忘忧宫",
+      "alias": [
+        "波塞冬"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_1_1.webp",
+      "cover": "covers/Side_Story_1_1.webp"
+    },
+    {
+      "id": "Side_Story_1_2",
+      "bpm": 170,
+      "title": "WATER",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.5,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Side Story 1 忘忧宫",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_1_2.webp",
+      "cover": "covers/Side_Story_1_2.webp"
+    },
+    {
+      "id": "Side_Story_1_3",
+      "bpm": 192,
+      "title": "Miracle Forest (VIP Mix)",
+      "difficulty": {
+        "ez": 3,
+        "hd": 7.5,
+        "in": 13.1,
+        "at": ""
+      },
+      "chapter": "Side Story 1 忘忧宫",
+      "alias": [
+        "奇迹森林",
+        "油条森林"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_1_3.webp",
+      "cover": "covers/Side_Story_1_3.webp"
+    },
+    {
+      "id": "Side_Story_1_4",
+      "bpm": 144,
+      "title": "MOBILYS",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.3,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Side Story 1 忘忧宫",
+      "alias": [
+        "灯球"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_1_4.webp",
+      "cover": "covers/Side_Story_1_4.webp"
+    },
+    {
+      "id": "Side_Story_1_5",
+      "bpm": 177,
+      "title": "Lyrith -迷宮リリス-",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.1,
+        "in": 16.1,
+        "at": 16.5
+      },
+      "chapter": "Side Story 1 忘忧宫",
+      "alias": [
+        "迷宫",
+        "迷宫莉莉丝"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_1_5.webp",
+      "cover": "covers/Side_Story_1_5.webp"
+    },
+    {
+      "id": "Side_Story_2_1",
+      "bpm": 111,
+      "title": "Demiurge",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 7.5,
+        "in": 11.8,
+        "at": ""
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [
+        "造物主"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_1.webp",
+      "cover": "covers/Side_Story_2_1.webp"
+    },
+    {
+      "id": "Side_Story_2_2",
+      "bpm": 192,
+      "title": "Demonkin",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.2,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_2.webp",
+      "cover": "covers/Side_Story_2_2.webp"
+    },
+    {
+      "id": "Side_Story_2_3",
+      "bpm": 150,
+      "title": "Re_Nascence (Psystyle Ver.)",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.7,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [
+        "洗衣液"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_3.webp",
+      "cover": "covers/Side_Story_2_3.webp"
+    },
+    {
+      "id": "Side_Story_2_4",
+      "bpm": 180,
+      "title": "Ark",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.5,
+        "in": 15,
+        "at": 16.4
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [
+        "方舟"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_4.webp",
+      "cover": "covers/Side_Story_2_4.webp"
+    },
+    {
+      "id": "Side_Story_2_5",
+      "bpm": 110,
+      "title": "After Dawn",
+      "difficulty": {
+        "ez": 3,
+        "hd": 10.4,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [
+        "黎明之后",
+        "汤姆惨叫曲"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_5.webp",
+      "cover": "covers/Side_Story_2_5.webp"
+    },
+    {
+      "id": "Side_Story_2_6",
+      "bpm": 180,
+      "title": "INFiNiTE ENERZY -Overdoze-",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.3,
+        "in": 14.8,
+        "at": 16.9
+      },
+      "chapter": "Side Story 2 弭刻日",
+      "alias": [
+        "IEO"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_2_6.webp",
+      "cover": "covers/Side_Story_2_6.webp"
+    },
+    {
+      "id": "Side_Story_3_1",
+      "bpm": 128,
+      "title": "Khalid",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.2,
+        "in": 13,
+        "at": ""
+      },
+      "chapter": "Side Story 3 盗乐行",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_3_1.webp",
+      "cover": "covers/Side_Story_3_1.webp"
+    },
+    {
+      "id": "Side_Story_3_2",
+      "bpm": 200,
+      "title": "Quantum Hyperspace",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.2,
+        "in": 15,
+        "at": ""
+      },
+      "chapter": "Side Story 3 盗乐行",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_3_2.webp",
+      "cover": "covers/Side_Story_3_2.webp"
+    },
+    {
+      "id": "Side_Story_3_3",
+      "bpm": 202,
+      "title": "Freaky Undulations ~Noble Knights of Tune~",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.9,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "Side Story 3 盗乐行",
+      "alias": [
+        "音律骑士",
+        "音调骑士"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_3_3.webp",
+      "cover": "covers/Side_Story_3_3.webp"
+    },
+    {
+      "id": "Side_Story_3_4",
+      "bpm": 170,
+      "title": "PANIC PARADISE",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.5,
+        "in": 15.5,
+        "at": 16.6
+      },
+      "chapter": "Side Story 3 盗乐行",
+      "alias": [
+        "恐慌天堂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_3_4.webp",
+      "cover": "covers/Side_Story_3_4.webp"
+    },
+    {
+      "id": "Side_Story_3_5",
+      "bpm": 212,
+      "title": "Re: End of a Dream",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 13,
+        "in": 15.9,
+        "at": 16.9
+      },
+      "chapter": "Side Story 3 盗乐行",
+      "alias": [
+        "终梦"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_3_5.webp",
+      "cover": "covers/Side_Story_3_5.webp"
+    },
+    {
+      "id": "Side_Story_4_1",
+      "bpm": 150,
+      "title": "心の記憶",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.1,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [
+        "心的记忆"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_1.webp",
+      "cover": "covers/Side_Story_4_1.webp"
+    },
+    {
+      "id": "Side_Story_4_2",
+      "bpm": 160,
+      "title": "Spotlight",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.9,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [
+        "聚光灯"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_2.webp",
+      "cover": "covers/Side_Story_4_2.webp"
+    },
+    {
+      "id": "Side_Story_4_3",
+      "bpm": 151,
+      "title": "NightTheater",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10.6,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [
+        "夜剧院"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_3.webp",
+      "cover": "covers/Side_Story_4_3.webp"
+    },
+    {
+      "id": "Side_Story_4_4",
+      "bpm": 175,
+      "title": "Ramification",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.4,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_4.webp",
+      "cover": "covers/Side_Story_4_4.webp"
+    },
+    {
+      "id": "Side_Story_4_5",
+      "bpm": 192,
+      "title": "Der Richter",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.4,
+        "in": 15.6,
+        "at": 16.9
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [
+        "克劳德",
+        "法官"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_5.webp",
+      "cover": "covers/Side_Story_4_5.webp"
+    },
+    {
+      "id": "Side_Story_4_6",
+      "bpm": 280,
+      "title": "ATHAZA",
+      "difficulty": {
+        "ez": 8.6,
+        "hd": 12.9,
+        "in": 15.7,
+        "at": 16.6
+      },
+      "chapter": "Side Story 4 无相乡",
+      "alias": [
+        "笼中花",
+        "被遗忘恐惧症"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Side_Story_4_6.webp",
+      "cover": "covers/Side_Story_4_6.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rising_Sun_Traxx_1",
+      "bpm": 175,
+      "title": "Another Me",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.3,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rising Sun Traxx",
+      "alias": [
+        "另一个我"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rising_Sun_Traxx_1.webp",
+      "cover": "covers/Chapter_Ex_Rising_Sun_Traxx_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rising_Sun_Traxx_2",
+      "bpm": 172,
+      "title": "mechanted",
+      "difficulty": {
+        "ez": 3,
+        "hd": 11.3,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rising Sun Traxx",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rising_Sun_Traxx_2.webp",
+      "cover": "covers/Chapter_Ex_Rising_Sun_Traxx_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rising_Sun_Traxx_3",
+      "bpm": 227,
+      "title": "life flashes before weeb eyes",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.9,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rising Sun Traxx",
+      "alias": [
+        "小黄歌"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rising_Sun_Traxx_3.webp",
+      "cover": "covers/Chapter_Ex_Rising_Sun_Traxx_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rising_Sun_Traxx_4",
+      "bpm": 176,
+      "title": "Break Through The Barrier",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.5,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rising Sun Traxx",
+      "alias": [
+        "BTTB"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rising_Sun_Traxx_4.webp",
+      "cover": "covers/Chapter_Ex_Rising_Sun_Traxx_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rising_Sun_Traxx_5",
+      "bpm": 196,
+      "title": "Chronostasis",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.7,
+        "in": 16,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rising Sun Traxx",
+      "alias": [
+        "时停"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rising_Sun_Traxx_5.webp",
+      "cover": "covers/Chapter_Ex_Rising_Sun_Traxx_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_HyuN_1",
+      "bpm": 160,
+      "title": "Infinity Heaven",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.4,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-HyuN 精选集",
+      "alias": [
+        "无限天堂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_HyuN_1.webp",
+      "cover": "covers/Chapter_Ex_HyuN_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_HyuN_2",
+      "bpm": 193,
+      "title": "Disorder",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.3,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-HyuN 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_HyuN_2.webp",
+      "cover": "covers/Chapter_Ex_HyuN_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_HyuN_3",
+      "bpm": 200,
+      "title": "CROSS†SOUL",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.6,
+        "in": 16.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-HyuN 精选集",
+      "alias": [
+        "穿魂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_HyuN_3.webp",
+      "cover": "covers/Chapter_Ex_HyuN_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_GOOD_1",
+      "bpm": 190,
+      "title": "GOODTEK",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-GOOD 精选集",
+      "alias": [
+        "好锤子",
+        "良锤"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_GOOD_1.webp",
+      "cover": "covers/Chapter_Ex_GOOD_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_GOOD_2",
+      "bpm": 180,
+      "title": "GOODBOUNCE",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 11.9,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-GOOD 精选集",
+      "alias": [
+        "良弹"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_GOOD_2.webp",
+      "cover": "covers/Chapter_Ex_GOOD_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_GOOD_3",
+      "bpm": 165,
+      "title": "GOODWORLD",
+      "difficulty": {
+        "ez": 3,
+        "hd": 11.4,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-GOOD 精选集",
+      "alias": [
+        "好世界",
+        "良界"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_GOOD_3.webp",
+      "cover": "covers/Chapter_Ex_GOOD_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_GOOD_4",
+      "bpm": 170,
+      "title": "GOODFORTUNE",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 8.7,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-GOOD 精选集",
+      "alias": [
+        "好运来",
+        "良幸"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_GOOD_4.webp",
+      "cover": "covers/Chapter_Ex_GOOD_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_GOOD_5",
+      "bpm": 222,
+      "title": "GOODRAGE",
+      "difficulty": {
+        "ez": 5,
+        "hd": 8.5,
+        "in": 16,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-GOOD 精选集",
+      "alias": [
+        "好生气",
+        "良怒"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_GOOD_5.webp",
+      "cover": "covers/Chapter_Ex_GOOD_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_WAVEAT_1",
+      "bpm": 128,
+      "title": "Initialize",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 7,
+        "in": 11.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-WAVEAT 精选集",
+      "alias": [
+        "初始化"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_WAVEAT_1.webp",
+      "cover": "covers/Chapter_Ex_WAVEAT_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_WAVEAT_2",
+      "bpm": 135,
+      "title": "桜樹街道",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.1,
+        "in": 13,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-WAVEAT 精选集",
+      "alias": [
+        "樱树街道"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_WAVEAT_2.webp",
+      "cover": "covers/Chapter_Ex_WAVEAT_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_WAVEAT_3",
+      "bpm": 142,
+      "title": "Get Ready!!",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.7,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-WAVEAT 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_WAVEAT_3.webp",
+      "cover": "covers/Chapter_Ex_WAVEAT_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_WAVEAT_4",
+      "bpm": 191,
+      "title": "volcanic",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.1,
+        "in": 14.7,
+        "at": 16.6
+      },
+      "chapter": "Chapter Ex-WAVEAT 精选集",
+      "alias": [
+        "火山"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_WAVEAT_4.webp",
+      "cover": "covers/Chapter_Ex_WAVEAT_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Muse_Dash_1",
+      "bpm": 177,
+      "title": "XING",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.8,
+        "in": 14,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Muse Dash 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Muse_Dash_1.webp",
+      "cover": "covers/Chapter_Ex_Muse_Dash_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Muse_Dash_2",
+      "bpm": 180,
+      "title": "Final Step!",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11,
+        "in": 14.1,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Muse Dash 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Muse_Dash_2.webp",
+      "cover": "covers/Chapter_Ex_Muse_Dash_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Muse_Dash_3",
+      "bpm": 213,
+      "title": "Cthugha",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.4,
+        "in": 16,
+        "at": 16.1
+      },
+      "chapter": "Chapter Ex-Muse Dash 精选集",
+      "alias": [
+        "克图格亚",
+        "火球",
+        "火神"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Muse_Dash_3.webp",
+      "cover": "covers/Chapter_Ex_Muse_Dash_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_1",
+      "bpm": 128,
+      "title": "Time to Night Sky (feat. Lee Yu Jin)",
+      "difficulty": {
+        "ez": 3,
+        "hd": 10.1,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "time to the night sky"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_1.webp",
+      "cover": "covers/Chapter_Ex_KALPA_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_2",
+      "bpm": 128,
+      "title": "HAZARD",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "牛角"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_2.webp",
+      "cover": "covers/Chapter_Ex_KALPA_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_3",
+      "bpm": 210,
+      "title": "Another Me",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.3,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "另一个我"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_3.webp",
+      "cover": "covers/Chapter_Ex_KALPA_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_4",
+      "bpm": 175,
+      "title": "Don't Never Around",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.3,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "DNA"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_4.webp",
+      "cover": "covers/Chapter_Ex_KALPA_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_5",
+      "bpm": 205,
+      "title": "RESSiSTANCE",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.2,
+        "in": 16.1,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "绿魔王"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_5.webp",
+      "cover": "covers/Chapter_Ex_KALPA_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_6",
+      "bpm": 219,
+      "title": "Flutter Echo",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.8,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_6.webp",
+      "cover": "covers/Chapter_Ex_KALPA_6.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_7",
+      "bpm": 196,
+      "title": "Re: birth",
+      "difficulty": {
+        "ez": 6,
+        "hd": 12,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_7.webp",
+      "cover": "covers/Chapter_Ex_KALPA_7.webp"
+    },
+    {
+      "id": "Chapter_Ex_KALPA_8",
+      "bpm": 180,
+      "title": "Avataar ~Reincarnation of Kalpa~",
+      "difficulty": {
+        "ez": 2,
+        "hd": 8.2,
+        "in": 13.2,
+        "at": 16.6
+      },
+      "chapter": "Chapter Ex-KALPA 精选集",
+      "alias": [
+        "转世化身"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_KALPA_8.webp",
+      "cover": "covers/Chapter_Ex_KALPA_8.webp"
+    },
+    {
+      "id": "Chapter_Ex_Lanota_1",
+      "bpm": 220,
+      "title": "Apocalypse",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.6,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Lanota 精选集",
+      "alias": [
+        "天启"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Lanota_1.webp",
+      "cover": "covers/Chapter_Ex_Lanota_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Lanota_2",
+      "bpm": 140,
+      "title": "Protoflicker",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.7,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Lanota 精选集",
+      "alias": [
+        "守船石"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Lanota_2.webp",
+      "cover": "covers/Chapter_Ex_Lanota_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Lanota_3",
+      "bpm": 200,
+      "title": "Horizon Blue",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.6,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Lanota 精选集",
+      "alias": [
+        "蓝界"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Lanota_3.webp",
+      "cover": "covers/Chapter_Ex_Lanota_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_Lanota_4",
+      "bpm": 163,
+      "title": "You are the Miserable",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.7,
+        "in": 14.1,
+        "at": 15.8
+      },
+      "chapter": "Chapter Ex-Lanota 精选集",
+      "alias": [
+        "你真惨",
+        "倒霉蛋"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Lanota_4.webp",
+      "cover": "covers/Chapter_Ex_Lanota_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Lanota_5",
+      "bpm": 180,
+      "title": "Stasis",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.1,
+        "in": 15.3,
+        "at": 16.7
+      },
+      "chapter": "Chapter Ex-Lanota 精选集",
+      "alias": [
+        "船"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Lanota_5.webp",
+      "cover": "covers/Chapter_Ex_Lanota_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_姜米條_1",
+      "bpm": 172,
+      "title": "Shadow",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 10.5,
+        "in": 14.6,
+        "at": 16.2
+      },
+      "chapter": "Chapter Ex-姜米條 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E5%A7%9C%E7%B1%B3%E6%A2%9D_1.webp",
+      "cover": "covers/Chapter_Ex_姜米條_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_姜米條_2",
+      "bpm": 180,
+      "title": "心之所向",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.2,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-姜米條 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E5%A7%9C%E7%B1%B3%E6%A2%9D_2.webp",
+      "cover": "covers/Chapter_Ex_姜米條_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_姜米條_3",
+      "bpm": 200,
+      "title": "inferior",
+      "difficulty": {
+        "ez": 7,
+        "hd": 7.5,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-姜米條 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E5%A7%9C%E7%B1%B3%E6%A2%9D_3.webp",
+      "cover": "covers/Chapter_Ex_姜米條_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_茶鸣拾贰律_1",
+      "bpm": 131,
+      "title": "盏茗",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 4.5,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-茶鸣拾贰律 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8C%B6%E9%B8%A3%E6%8B%BE%E8%B4%B0%E5%BE%8B_1.webp",
+      "cover": "covers/Chapter_Ex_茶鸣拾贰律_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_茶鸣拾贰律_2",
+      "bpm": 216,
+      "title": "青芽",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.4,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-茶鸣拾贰律 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8C%B6%E9%B8%A3%E6%8B%BE%E8%B4%B0%E5%BE%8B_2.webp",
+      "cover": "covers/Chapter_Ex_茶鸣拾贰律_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_茶鸣拾贰律_3",
+      "bpm": 126,
+      "title": "瓷岁",
+      "difficulty": {
+        "ez": 2,
+        "hd": 6.5,
+        "in": 7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-茶鸣拾贰律 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8C%B6%E9%B8%A3%E6%8B%BE%E8%B4%B0%E5%BE%8B_3.webp",
+      "cover": "covers/Chapter_Ex_茶鸣拾贰律_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_茶鸣拾贰律_4",
+      "bpm": 128,
+      "title": "Feast远东之宴",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.1,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-茶鸣拾贰律 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8C%B6%E9%B8%A3%E6%8B%BE%E8%B4%B0%E5%BE%8B_4.webp",
+      "cover": "covers/Chapter_Ex_茶鸣拾贰律_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_1",
+      "bpm": 130,
+      "title": "神話",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.7,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "神话"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_1.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_2",
+      "bpm": 175,
+      "title": "El último baile",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.5,
+        "in": 14.1,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "最后一舞",
+        "终之舞"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_2.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_3",
+      "bpm": 128,
+      "title": "Trojan",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.8,
+        "in": 15,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "特洛伊"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_3.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_4",
+      "bpm": 155,
+      "title": "Temporal Shifting",
+      "difficulty": {
+        "ez": 4,
+        "hd": 11.5,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "时间转换"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_4.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_5",
+      "bpm": 197,
+      "title": "Ad astra per aspera",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.1,
+        "in": 16.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "aapa"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_5.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_OverRapid_6",
+      "bpm": 174,
+      "title": "A journey to the moonlight",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.7,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-OverRapid 精选集",
+      "alias": [
+        "月光之旅"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_OverRapid_6.webp",
+      "cover": "covers/Chapter_Ex_OverRapid_6.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_1",
+      "bpm": 150,
+      "title": "Journey with You",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_1.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_2",
+      "bpm": 160,
+      "title": "Secret Illumination",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.2,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_2.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_3",
+      "bpm": 180,
+      "title": "Inverted World",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.2,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [
+        "反转世界"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_3.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_4",
+      "bpm": 150,
+      "title": "ストレイソウル・アラウンド",
+      "difficulty": {
+        "ez": 6,
+        "hd": 9.8,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [
+        "灵魂之旅",
+        "四处游荡的灵魂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_4.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_5",
+      "bpm": 174,
+      "title": "Manifold Hypothesis",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.1,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [
+        "流形假说"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_5.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_Rotaeno_6",
+      "bpm": 175,
+      "title": "K.Moe (VIP)",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.4,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Rotaeno 精选集",
+      "alias": [
+        "雌魔王"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Rotaeno_6.webp",
+      "cover": "covers/Chapter_Ex_Rotaeno_6.webp"
+    },
+    {
+      "id": "Chapter_Ex_CHUNITHM_1",
+      "bpm": 180,
+      "title": "月詠に鳴る",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.4,
+        "in": 14.5,
+        "at": 15.7
+      },
+      "chapter": "Chapter Ex-CHUNITHM 精选集",
+      "alias": [
+        "月咏"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CHUNITHM_1.webp",
+      "cover": "covers/Chapter_Ex_CHUNITHM_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_CHUNITHM_2",
+      "bpm": 134,
+      "title": "TECHNOPOLIS 2085",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.2,
+        "in": 14.1,
+        "at": 15.9
+      },
+      "chapter": "Chapter Ex-CHUNITHM 精选集",
+      "alias": [
+        "2085"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CHUNITHM_2.webp",
+      "cover": "covers/Chapter_Ex_CHUNITHM_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_CHUNITHM_3",
+      "bpm": 219,
+      "title": "祈 -我ら神祖と共に歩む者なり-",
+      "difficulty": {
+        "ez": 7,
+        "hd": 13.2,
+        "in": 16.4,
+        "at": 17.3
+      },
+      "chapter": "Chapter Ex-CHUNITHM 精选集",
+      "alias": [
+        "祈",
+        "祈我"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CHUNITHM_3.webp",
+      "cover": "covers/Chapter_Ex_CHUNITHM_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_CHUNITHM_4",
+      "bpm": 130,
+      "title": "玩具狂奏曲 -終焉-",
+      "difficulty": {
+        "ez": 8.4,
+        "hd": 13.1,
+        "in": 16,
+        "at": 17
+      },
+      "chapter": "Chapter Ex-CHUNITHM 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CHUNITHM_4.webp",
+      "cover": "covers/Chapter_Ex_CHUNITHM_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Paradigm_Reboot_1",
+      "bpm": 170,
+      "title": "Xenolith",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.5,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Paradigm: Reboot 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Paradigm_Reboot_1.webp",
+      "cover": "covers/Chapter_Ex_Paradigm_Reboot_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Paradigm_Reboot_2",
+      "bpm": 191,
+      "title": "Artificial Existence",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.4,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Paradigm: Reboot 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Paradigm_Reboot_2.webp",
+      "cover": "covers/Chapter_Ex_Paradigm_Reboot_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Paradigm_Reboot_3",
+      "bpm": 223,
+      "title": "Indelible Scar",
+      "difficulty": {
+        "ez": 7,
+        "hd": 11.5,
+        "in": 15.3,
+        "at": 16.5
+      },
+      "chapter": "Chapter Ex-Paradigm: Reboot 精选集",
+      "alias": [
+        "IS"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Paradigm_Reboot_3.webp",
+      "cover": "covers/Chapter_Ex_Paradigm_Reboot_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_Paradigm_Reboot_4",
+      "bpm": 240,
+      "title": "零號車輛",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.1,
+        "in": 16.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Paradigm: Reboot 精选集",
+      "alias": [
+        "零号车辆",
+        "灵车",
+        "零车"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Paradigm_Reboot_4.webp",
+      "cover": "covers/Chapter_Ex_Paradigm_Reboot_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Paradigm_Reboot_5",
+      "bpm": 210,
+      "title": "[NWAD]",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.2,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Paradigm: Reboot 精选集",
+      "alias": [
+        "黎明"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Paradigm_Reboot_5.webp",
+      "cover": "covers/Chapter_Ex_Paradigm_Reboot_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_SHINOBI_SLASH_1",
+      "bpm": 182,
+      "title": "幽世桔梗",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.1,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-SHINOBI SLASH 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_SHINOBI_SLASH_1.webp",
+      "cover": "covers/Chapter_Ex_SHINOBI_SLASH_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_SHINOBI_SLASH_2",
+      "bpm": 203,
+      "title": "千紫万紅",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 12.1,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-SHINOBI SLASH 精选集",
+      "alias": [
+        "千紫万红"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_SHINOBI_SLASH_2.webp",
+      "cover": "covers/Chapter_Ex_SHINOBI_SLASH_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_SHINOBI_SLASH_3",
+      "bpm": 200,
+      "title": "明鏡烈火",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.1,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-SHINOBI SLASH 精选集",
+      "alias": [
+        "明镜烈火"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_SHINOBI_SLASH_3.webp",
+      "cover": "covers/Chapter_Ex_SHINOBI_SLASH_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_TAKUMI³_1",
+      "bpm": 194,
+      "title": "Cuvism³",
+      "difficulty": {
+        "ez": 3,
+        "hd": 12.2,
+        "in": 13.9,
+        "at": 16.7
+      },
+      "chapter": "Chapter Ex-TAKUMI³ 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_TAKUMI%C2%B3_1.webp",
+      "cover": "covers/Chapter_Ex_TAKUMI³_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_TAKUMI³_2",
+      "bpm": 184,
+      "title": "iL-Artifact",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.5,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-TAKUMI³ 精选集",
+      "alias": [
+        "IL"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_TAKUMI%C2%B3_2.webp",
+      "cover": "covers/Chapter_Ex_TAKUMI³_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_TAKUMI³_3",
+      "bpm": 206,
+      "title": "a truth seeker -Communication with Utopia will be lost-",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.4,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-TAKUMI³ 精选集",
+      "alias": [
+        "真理寻者"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_TAKUMI%C2%B3_3.webp",
+      "cover": "covers/Chapter_Ex_TAKUMI³_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_节奏大师_1",
+      "bpm": 160,
+      "title": "君往何处 (Quo Vadis)",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.6,
+        "in": 14.1,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-节奏大师 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88_1.webp",
+      "cover": "covers/Chapter_Ex_节奏大师_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_节奏大师_2",
+      "bpm": 174,
+      "title": "暗夜苏醒 (REANIMATE)",
+      "difficulty": {
+        "ez": 5,
+        "hd": 12.8,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-节奏大师 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88_2.webp",
+      "cover": "covers/Chapter_Ex_节奏大师_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_节奏大师_3",
+      "bpm": 160,
+      "title": "黄金之城 (GOLD TOWN)",
+      "difficulty": {
+        "ez": 2,
+        "hd": 10.2,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-节奏大师 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88_3.webp",
+      "cover": "covers/Chapter_Ex_节奏大师_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_节奏大师_4",
+      "bpm": 160,
+      "title": "双重间谍 (Double Agent)",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11.8,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-节奏大师 精选集",
+      "alias": [
+        "双重间谍",
+        "Double Agent"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88_4.webp",
+      "cover": "covers/Chapter_Ex_节奏大师_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_节奏大师_5",
+      "bpm": 161,
+      "title": "幻影鬼魅 (PLEASE)",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.6,
+        "in": 15.2,
+        "at": 17
+      },
+      "chapter": "Chapter Ex-节奏大师 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E8%8A%82%E5%A5%8F%E5%A4%A7%E5%B8%88_5.webp",
+      "cover": "covers/Chapter_Ex_节奏大师_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_1",
+      "bpm": 177,
+      "title": "Silence is Golden, Speech is Golden",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.3,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [
+        "沉默是金"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_1.webp",
+      "cover": "covers/Chapter_Ex_EGTS_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_2",
+      "bpm": 301,
+      "title": "Fractured Angel",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10.9,
+        "in": 16.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [
+        "折翼天使",
+        "骨折天使"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_2.webp",
+      "cover": "covers/Chapter_Ex_EGTS_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_3",
+      "bpm": 123,
+      "title": "Resolver",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.4,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_3.webp",
+      "cover": "covers/Chapter_Ex_EGTS_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_4",
+      "bpm": 200,
+      "title": "Luminous Entities Lost Heart",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.7,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [
+        "失心发光体"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_4.webp",
+      "cover": "covers/Chapter_Ex_EGTS_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_5",
+      "bpm": 240,
+      "title": "KIZUNA Resolution",
+      "difficulty": {
+        "ez": 8,
+        "hd": 13.4,
+        "in": 16.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [
+        "羁绊决议"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_5.webp",
+      "cover": "covers/Chapter_Ex_EGTS_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_EGTS_6",
+      "bpm": 256,
+      "title": "AbsoluTe disoRdeR",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.4,
+        "in": 16.3,
+        "at": 17.2
+      },
+      "chapter": "Chapter Ex-EGTS 精选集",
+      "alias": [
+        "绝对混乱",
+        "ATRR"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_EGTS_6.webp",
+      "cover": "covers/Chapter_Ex_EGTS_6.webp"
+    },
+    {
+      "id": "Chapter_Ex_Immaculée_Sekai_1",
+      "bpm": 128,
+      "title": "Aphrodite's Child (short ver.)",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.1,
+        "in": 13.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Immaculée Sekai 精选集",
+      "alias": [
+        "无暇世界 Aphrodite's Child"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Immacul%C3%A9e_Sekai_1.webp",
+      "cover": "covers/Chapter_Ex_Immaculée_Sekai_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Immaculée_Sekai_2",
+      "bpm": 155,
+      "title": "DevIAtiOn (short ver.)",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.1,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Immaculée Sekai 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Immacul%C3%A9e_Sekai_2.webp",
+      "cover": "covers/Chapter_Ex_Immaculée_Sekai_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Immaculée_Sekai_3",
+      "bpm": 190,
+      "title": "NO x",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.1,
+        "in": 16.1,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Immaculée Sekai 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Immacul%C3%A9e_Sekai_3.webp",
+      "cover": "covers/Chapter_Ex_Immaculée_Sekai_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_オンゲキ_1",
+      "bpm": 155,
+      "title": "Radiance",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 11.9,
+        "in": 14.1,
+        "at": 15.6
+      },
+      "chapter": "Chapter Ex-オンゲキ 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E3%82%AA%E3%83%B3%E3%82%B2%E3%82%AD_1.webp",
+      "cover": "covers/Chapter_Ex_オンゲキ_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_オンゲキ_2",
+      "bpm": 200,
+      "title": "Diamond Dust",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.8,
+        "in": 15.3,
+        "at": 16.7
+      },
+      "chapter": "Chapter Ex-オンゲキ 精选集",
+      "alias": [
+        "钻石尘"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E3%82%AA%E3%83%B3%E3%82%B2%E3%82%AD_2.webp",
+      "cover": "covers/Chapter_Ex_オンゲキ_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_オンゲキ_3",
+      "bpm": 164,
+      "title": "Stardust:RAY",
+      "difficulty": {
+        "ez": 6,
+        "hd": 12.3,
+        "in": 16.5,
+        "at": 17.2
+      },
+      "chapter": "Chapter Ex-オンゲキ 精选集",
+      "alias": [
+        "星尘光"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_%E3%82%AA%E3%83%B3%E3%82%B2%E3%82%AD_3.webp",
+      "cover": "covers/Chapter_Ex_オンゲキ_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_maimai_1",
+      "bpm": 187,
+      "title": "アンビバレンス",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.7,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-maimai 精选集",
+      "alias": [
+        "矛盾心理"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_maimai_1.webp",
+      "cover": "covers/Chapter_Ex_maimai_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_maimai_2",
+      "bpm": 165,
+      "title": "Komplexe",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.6,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-maimai 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_maimai_2.webp",
+      "cover": "covers/Chapter_Ex_maimai_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_maimai_3",
+      "bpm": 199,
+      "title": "sølips",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.8,
+        "in": 16,
+        "at": 16.8
+      },
+      "chapter": "Chapter Ex-maimai 精选集",
+      "alias": [
+        "solips",
+        "嗦"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_maimai_3.webp",
+      "cover": "covers/Chapter_Ex_maimai_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_maimai_4",
+      "bpm": 257,
+      "title": "QZKago Requiem",
+      "difficulty": {
+        "ez": 7,
+        "hd": 13.3,
+        "in": 16.3,
+        "at": 17.4
+      },
+      "chapter": "Chapter Ex-maimai 精选集",
+      "alias": [
+        "垃圾桶安魂曲",
+        "茄子卡狗"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_maimai_4.webp",
+      "cover": "covers/Chapter_Ex_maimai_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_Liminality_1",
+      "bpm": 170,
+      "title": "Xep+ion",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 9.8,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Liminality 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Liminality_1.webp",
+      "cover": "covers/Chapter_Ex_Liminality_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_Liminality_2",
+      "bpm": 160,
+      "title": "Archidoxen",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10,
+        "in": 15.6,
+        "at": 16.9
+      },
+      "chapter": "Chapter Ex-Liminality 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Liminality_2.webp",
+      "cover": "covers/Chapter_Ex_Liminality_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_Liminality_3",
+      "bpm": 200,
+      "title": "百鬼֎夜行",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.1,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Liminality 精选集",
+      "alias": [
+        "百鬼夜行"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Liminality_3.webp",
+      "cover": "covers/Chapter_Ex_Liminality_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_Liminality_4",
+      "bpm": 220,
+      "title": "Devastating History",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.8,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-Liminality 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_Liminality_4.webp",
+      "cover": "covers/Chapter_Ex_Liminality_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_1",
+      "bpm": 157,
+      "title": "The Whole Rest",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.9,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [
+        "全休止符"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_1.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_1.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_2",
+      "bpm": 134,
+      "title": "Cristalisia",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10.4,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_2.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_2.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_3",
+      "bpm": 160,
+      "title": "Hydra",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.6,
+        "in": 15.4,
+        "at": 17.1
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_3.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_3.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_4",
+      "bpm": 140,
+      "title": "Alb",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.9,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_4.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_4.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_5",
+      "bpm": 180,
+      "title": "Incyde",
+      "difficulty": {
+        "ez": 7,
+        "hd": 12.1,
+        "in": 16.2,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_5.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_5.webp"
+    },
+    {
+      "id": "Chapter_Ex_CYTUS_II_6",
+      "bpm": 170,
+      "title": "彩",
+      "difficulty": {
+        "ez": 6,
+        "hd": 12.5,
+        "in": 16.4,
+        "at": ""
+      },
+      "chapter": "Chapter Ex-CYTUS II 精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Chapter_Ex_CYTUS_II_6.webp",
+      "cover": "covers/Chapter_Ex_CYTUS_II_6.webp"
+    },
+    {
+      "id": "Jixingwei_1",
+      "bpm": 150,
+      "title": "S.A.T.E.L.L.I.T.E.",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.9,
+        "in": 14.3,
+        "at": 16.2
+      },
+      "chapter": "极星卫",
+      "alias": [
+        "卫星",
+        "Satelite"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Jixingwei_1.webp",
+      "cover": "covers/Jixingwei_1.webp"
+    },
+    {
+      "id": "Jixingwei_2",
+      "bpm": 128,
+      "title": "Dance with Silence",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.9,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "极星卫",
+      "alias": [
+        "静舞"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Jixingwei_2.webp",
+      "cover": "covers/Jixingwei_2.webp"
+    },
+    {
+      "id": "Jixingwei_3",
+      "bpm": 190,
+      "title": "Labyrinth in Kowloon: Walled World",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.4,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "极星卫",
+      "alias": [
+        "九龙迷宫"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Jixingwei_3.webp",
+      "cover": "covers/Jixingwei_3.webp"
+    },
+    {
+      "id": "Jixingwei_4",
+      "bpm": 165,
+      "title": "Compute It With Some Devilish Alcoholic Steampunk Engines",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.6,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "极星卫",
+      "alias": [
+        "蒸汽朋克"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Jixingwei_4.webp",
+      "cover": "covers/Jixingwei_4.webp"
+    },
+    {
+      "id": "Jixingwei_5",
+      "bpm": 230,
+      "title": "+ERABY+E CONNEC+10N",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.6,
+        "in": 16.3,
+        "at": 17.3
+      },
+      "chapter": "极星卫",
+      "alias": [
+        "太字节连接",
+        "+++"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Jixingwei_5.webp",
+      "cover": "covers/Jixingwei_5.webp"
+    },
+    {
+      "id": "Single_1",
+      "bpm": 140,
+      "title": "Doppelganger",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "二重身"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_1.webp",
+      "cover": "covers/Single_1.webp"
+    },
+    {
+      "id": "Single_2",
+      "bpm": 200,
+      "title": "もぺもぺ",
+      "difficulty": {
+        "ez": 2,
+        "hd": 6.5,
+        "in": 11.1,
+        "at": 15.4
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "小花",
+        "mopemope",
+        "儿童邪典",
+        "毛八毛八"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_2.webp",
+      "cover": "covers/Single_2.webp"
+    },
+    {
+      "id": "Single_3",
+      "bpm": 140,
+      "title": "MARENOL",
+      "difficulty": {
+        "ez": 2,
+        "hd": 10.3,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "骂人OL",
+        "噩梦醇"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_3.webp",
+      "cover": "covers/Single_3.webp"
+    },
+    {
+      "id": "Single_4",
+      "bpm": 100,
+      "title": "萤火虫の怨",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.8,
+        "in": 13.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "萤火虫之怨"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_4.webp",
+      "cover": "covers/Single_4.webp"
+    },
+    {
+      "id": "Single_5",
+      "bpm": 120,
+      "title": "万吨匿名信",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.5,
+        "in": 13,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_5.webp",
+      "cover": "covers/Single_5.webp"
+    },
+    {
+      "id": "Single_6",
+      "bpm": 170,
+      "title": "风屿",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.8,
+        "in": 14,
+        "at": 15.1
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_6.webp",
+      "cover": "covers/Single_6.webp"
+    },
+    {
+      "id": "Single_7",
+      "bpm": 128,
+      "title": "dB doll",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 3.5,
+        "in": 8.3,
+        "at": 13.4
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "分贝娃娃"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_7.webp",
+      "cover": "covers/Single_7.webp"
+    },
+    {
+      "id": "Single_8",
+      "bpm": 128,
+      "title": "Dash",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 5.5,
+        "in": 9.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_8.webp",
+      "cover": "covers/Single_8.webp"
+    },
+    {
+      "id": "Single_9",
+      "bpm": 155,
+      "title": "云女孩",
+      "difficulty": {
+        "ez": 2,
+        "hd": 8.9,
+        "in": 12.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "云女鬼"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_9.webp",
+      "cover": "covers/Single_9.webp"
+    },
+    {
+      "id": "Single_10",
+      "bpm": 126,
+      "title": "Drop It",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.2,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_10.webp",
+      "cover": "covers/Single_10.webp"
+    },
+    {
+      "id": "Single_11",
+      "bpm": 150,
+      "title": "RIPPER",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.7,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_11.webp",
+      "cover": "covers/Single_11.webp"
+    },
+    {
+      "id": "Single_12",
+      "bpm": 128,
+      "title": "Aphasia",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.8,
+        "in": 13.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "失语症"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_12.webp",
+      "cover": "covers/Single_12.webp"
+    },
+    {
+      "id": "Single_13",
+      "bpm": 131,
+      "title": "开心病",
+      "difficulty": {
+        "ez": 7,
+        "hd": 11.9,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_13.webp",
+      "cover": "covers/Single_13.webp"
+    },
+    {
+      "id": "Single_14",
+      "bpm": 120,
+      "title": "華灯爱",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.6,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "华灯爱"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_14.webp",
+      "cover": "covers/Single_14.webp"
+    },
+    {
+      "id": "Single_15",
+      "bpm": 191,
+      "title": "Find_Me",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.5,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_15.webp",
+      "cover": "covers/Single_15.webp"
+    },
+    {
+      "id": "Single_16",
+      "bpm": 210,
+      "title": "Sein",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.1,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_16.webp",
+      "cover": "covers/Single_16.webp"
+    },
+    {
+      "id": "Single_17",
+      "bpm": 230,
+      "title": "狂喜蘭舞",
+      "difficulty": {
+        "ez": 7,
+        "hd": 11.7,
+        "in": 14.3,
+        "at": 16.4
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "狂喜兰舞",
+        "狂喜"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_17.webp",
+      "cover": "covers/Single_17.webp"
+    },
+    {
+      "id": "Single_18",
+      "bpm": 150,
+      "title": "Sparkle New Life",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.2,
+        "in": 12.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "闪耀新生活",
+        "闪亮新生活"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_18.webp",
+      "cover": "covers/Single_18.webp"
+    },
+    {
+      "id": "Single_19",
+      "bpm": 188,
+      "title": "Khronostasis Katharsis",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.8,
+        "in": 14,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "紫时停",
+        "紫皇帝"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_19.webp",
+      "cover": "covers/Single_19.webp"
+    },
+    {
+      "id": "Single_20",
+      "bpm": 125,
+      "title": "Snow Desert",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.3,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雪漠"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_20.webp",
+      "cover": "covers/Single_20.webp"
+    },
+    {
+      "id": "Single_21",
+      "bpm": 148,
+      "title": "Burn",
+      "difficulty": {
+        "ez": 7,
+        "hd": 11.2,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "烤全鸭",
+        "考全押"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_21.webp",
+      "cover": "covers/Single_21.webp"
+    },
+    {
+      "id": "Single_22",
+      "bpm": 250,
+      "title": "Aleph-0",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 12.2,
+        "in": 16,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "a0",
+        "数学课堂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_22.webp",
+      "cover": "covers/Single_22.webp"
+    },
+    {
+      "id": "Single_23",
+      "bpm": 175,
+      "title": "Next Time",
+      "difficulty": {
+        "ez": 6,
+        "hd": 8.7,
+        "in": 12.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "下次一定"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_23.webp",
+      "cover": "covers/Single_23.webp"
+    },
+    {
+      "id": "Single_24",
+      "bpm": 128,
+      "title": "Rubbish Sorting",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.4,
+        "in": 13.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "垃圾分类"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_24.webp",
+      "cover": "covers/Single_24.webp"
+    },
+    {
+      "id": "Single_25",
+      "bpm": 132,
+      "title": "Dead Soul",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 12.3,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "死鬼",
+        "第四大道"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_25.webp",
+      "cover": "covers/Single_25.webp"
+    },
+    {
+      "id": "Single_26",
+      "bpm": 145,
+      "title": "Speed Up!",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.3,
+        "in": 14,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_26.webp",
+      "cover": "covers/Single_26.webp"
+    },
+    {
+      "id": "Single_27",
+      "bpm": 150,
+      "title": "Magenta Potion",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 11.3,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "品红药水",
+        "骂人药水"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_27.webp",
+      "cover": "covers/Single_27.webp"
+    },
+    {
+      "id": "Single_28",
+      "bpm": 128,
+      "title": "Get Back",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 10.7,
+        "in": 14.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_28.webp",
+      "cover": "covers/Single_28.webp"
+    },
+    {
+      "id": "Single_29",
+      "bpm": 173,
+      "title": "Palescreen",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 12.3,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "白屏",
+        "男高音",
+        "歌剧院",
+        "U盘"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_29.webp",
+      "cover": "covers/Single_29.webp"
+    },
+    {
+      "id": "Single_30",
+      "bpm": 127,
+      "title": "The Mountain Eater from MUSYNC",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.6,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "食山者"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_30.webp",
+      "cover": "covers/Single_30.webp"
+    },
+    {
+      "id": "Single_31",
+      "bpm": 170,
+      "title": "Orthodox",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 8.5,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_31.webp",
+      "cover": "covers/Single_31.webp"
+    },
+    {
+      "id": "Single_32",
+      "bpm": 120,
+      "title": "End Me",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 7.5,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_32.webp",
+      "cover": "covers/Single_32.webp"
+    },
+    {
+      "id": "Single_33",
+      "bpm": 175,
+      "title": "Parallel Retrogression (Game Ver.)",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.9,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "碎屏"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_33.webp",
+      "cover": "covers/Single_33.webp"
+    },
+    {
+      "id": "Single_34",
+      "bpm": 110,
+      "title": "Starduster",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.4,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_34.webp",
+      "cover": "covers/Single_34.webp"
+    },
+    {
+      "id": "Single_35",
+      "bpm": 134,
+      "title": "Electron",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.4,
+        "in": 13.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "电子"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_35.webp",
+      "cover": "covers/Single_35.webp"
+    },
+    {
+      "id": "Single_36",
+      "bpm": 200,
+      "title": "SIGMA",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.5,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_36.webp",
+      "cover": "covers/Single_36.webp"
+    },
+    {
+      "id": "Single_37",
+      "bpm": 200,
+      "title": "Hardcore Kwaya",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 8.4,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "非洲土嗨"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_37.webp",
+      "cover": "covers/Single_37.webp"
+    },
+    {
+      "id": "Single_38",
+      "bpm": 132,
+      "title": "Äventyr",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.9,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "aventyr"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_38.webp",
+      "cover": "covers/Single_38.webp"
+    },
+    {
+      "id": "Single_39",
+      "bpm": 135,
+      "title": "Träne",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 7,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "粉毛女仆",
+        "女仆",
+        "trane"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_39.webp",
+      "cover": "covers/Single_39.webp"
+    },
+    {
+      "id": "Single_40",
+      "bpm": 180,
+      "title": "雪降り、メリクリ",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.8,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雪降"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_40.webp",
+      "cover": "covers/Single_40.webp"
+    },
+    {
+      "id": "Single_41",
+      "bpm": 142,
+      "title": "Cervelle Connexion",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.3,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "脑连接"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_41.webp",
+      "cover": "covers/Single_41.webp"
+    },
+    {
+      "id": "Single_42",
+      "bpm": 158,
+      "title": "modulus",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.4,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_42.webp",
+      "cover": "covers/Single_42.webp"
+    },
+    {
+      "id": "Single_43",
+      "bpm": 112,
+      "title": "Wavetapper",
+      "difficulty": {
+        "ez": 6,
+        "hd": 9.4,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "打电话",
+        "鸠打电话"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_43.webp",
+      "cover": "covers/Single_43.webp"
+    },
+    {
+      "id": "Single_44",
+      "bpm": 158,
+      "title": "大和撫子 -Wild Dances-",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.8,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "大和抚子",
+        "野舞"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_44.webp",
+      "cover": "covers/Single_44.webp"
+    },
+    {
+      "id": "Single_45",
+      "bpm": 193,
+      "title": "Eltaw",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.6,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_45.webp",
+      "cover": "covers/Single_45.webp"
+    },
+    {
+      "id": "Single_46",
+      "bpm": 180,
+      "title": "Better Graphic Animation",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.1,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "BGA"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_46.webp",
+      "cover": "covers/Single_46.webp"
+    },
+    {
+      "id": "Single_47",
+      "bpm": 170,
+      "title": "With You",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.1,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_47.webp",
+      "cover": "covers/Single_47.webp"
+    },
+    {
+      "id": "Single_48",
+      "bpm": 146,
+      "title": "Unorthodox Thoughts",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 12,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_48.webp",
+      "cover": "covers/Single_48.webp"
+    },
+    {
+      "id": "Single_49",
+      "bpm": 160,
+      "title": "Apocalyptic",
+      "difficulty": {
+        "ez": 3,
+        "hd": 10.4,
+        "in": 14.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "天启"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_49.webp",
+      "cover": "covers/Single_49.webp"
+    },
+    {
+      "id": "Single_50",
+      "bpm": 128,
+      "title": "游园地",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 7.5,
+        "in": 13,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_50.webp",
+      "cover": "covers/Single_50.webp"
+    },
+    {
+      "id": "Single_51",
+      "bpm": 160,
+      "title": "energy trixxx",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.4,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "能量XX"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_51.webp",
+      "cover": "covers/Single_51.webp"
+    },
+    {
+      "id": "Single_52",
+      "bpm": 174.59,
+      "title": "Nhelv",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 12,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "你和驴"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_52.webp",
+      "cover": "covers/Single_52.webp"
+    },
+    {
+      "id": "Single_53",
+      "bpm": 112,
+      "title": "-Arkhei-",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 8.8,
+        "in": 12.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_53.webp",
+      "cover": "covers/Single_53.webp"
+    },
+    {
+      "id": "Single_54",
+      "bpm": 197,
+      "title": "Kerberos",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 12.4,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "三头犬",
+        "刻耳柏洛斯"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_54.webp",
+      "cover": "covers/Single_54.webp"
+    },
+    {
+      "id": "Single_55",
+      "bpm": 180,
+      "title": "ρars/ey",
+      "difficulty": {
+        "ez": 4,
+        "hd": 11.7,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "parsley",
+        "芹菜"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_55.webp",
+      "cover": "covers/Single_55.webp"
+    },
+    {
+      "id": "Single_56",
+      "bpm": 190,
+      "title": "Concvssion",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.3,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "脑震荡"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_56.webp",
+      "cover": "covers/Single_56.webp"
+    },
+    {
+      "id": "Single_57",
+      "bpm": 175,
+      "title": "ジングルベル(Jingle Bell)",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 8.5,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "铃儿响叮当"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_57.webp",
+      "cover": "covers/Single_57.webp"
+    },
+    {
+      "id": "Single_58",
+      "bpm": 120,
+      "title": "Dreamland",
+      "difficulty": {
+        "ez": 7,
+        "hd": 10.3,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "梦想之地"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_58.webp",
+      "cover": "covers/Single_58.webp"
+    },
+    {
+      "id": "Single_59",
+      "bpm": 128,
+      "title": "Another Round",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 9.6,
+        "in": 13.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_59.webp",
+      "cover": "covers/Single_59.webp"
+    },
+    {
+      "id": "Single_60",
+      "bpm": 140,
+      "title": "996",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.4,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_60.webp",
+      "cover": "covers/Single_60.webp"
+    },
+    {
+      "id": "Single_61",
+      "bpm": 180,
+      "title": "Future Mind",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_61.webp",
+      "cover": "covers/Single_61.webp"
+    },
+    {
+      "id": "Single_62",
+      "bpm": 141,
+      "title": "Luminescent",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.5,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "冷光"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_62.webp",
+      "cover": "covers/Single_62.webp"
+    },
+    {
+      "id": "Single_63",
+      "bpm": 145,
+      "title": "FULi AUTO BUSTER",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.7,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "福利自动爆"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_63.webp",
+      "cover": "covers/Single_63.webp"
+    },
+    {
+      "id": "Single_64",
+      "bpm": 175,
+      "title": "I Must Say No",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 9.2,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_64.webp",
+      "cover": "covers/Single_64.webp"
+    },
+    {
+      "id": "Single_65",
+      "bpm": 193,
+      "title": "opia",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.6,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "眼"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_65.webp",
+      "cover": "covers/Single_65.webp"
+    },
+    {
+      "id": "Single_66",
+      "bpm": 188,
+      "title": "いざ、参ります",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.2,
+        "in": 15,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "参上"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_66.webp",
+      "cover": "covers/Single_66.webp"
+    },
+    {
+      "id": "Single_67",
+      "bpm": 175,
+      "title": "月下缭乱",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.4,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_67.webp",
+      "cover": "covers/Single_67.webp"
+    },
+    {
+      "id": "Single_68",
+      "bpm": 170,
+      "title": "On And On!!",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.6,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_68.webp",
+      "cover": "covers/Single_68.webp"
+    },
+    {
+      "id": "Single_69",
+      "bpm": 180,
+      "title": "DataErr0r",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.8,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "Dataerror",
+        "数据错误"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_69.webp",
+      "cover": "covers/Single_69.webp"
+    },
+    {
+      "id": "Single_70",
+      "bpm": 174,
+      "title": "c.s.q.n.",
+      "difficulty": {
+        "ez": 5,
+        "hd": 12.2,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "草酸氢钠",
+        "csqn"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_70.webp",
+      "cover": "covers/Single_70.webp"
+    },
+    {
+      "id": "Single_71",
+      "bpm": 192,
+      "title": "Brave Notes",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 11.4,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_71.webp",
+      "cover": "covers/Single_71.webp"
+    },
+    {
+      "id": "Single_72",
+      "bpm": 140,
+      "title": "Eternal Snow",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.6,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_72.webp",
+      "cover": "covers/Single_72.webp"
+    },
+    {
+      "id": "Single_73",
+      "bpm": 188,
+      "title": "Rainy Season",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.7,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雨季"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_73.webp",
+      "cover": "covers/Single_73.webp"
+    },
+    {
+      "id": "Single_74",
+      "bpm": 150,
+      "title": "El Condor Pasa (Phigros Edit)",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.5,
+        "in": 15.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "二人转",
+        "山鹰之歌"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_74.webp",
+      "cover": "covers/Single_74.webp"
+    },
+    {
+      "id": "Single_75",
+      "bpm": 185,
+      "title": "Break Over",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11.5,
+        "in": 14.1,
+        "at": 14.9
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "BO"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_75.webp",
+      "cover": "covers/Single_75.webp"
+    },
+    {
+      "id": "Single_76",
+      "bpm": 180,
+      "title": "Believe Light (feat. 果丸哒呦)",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 8.9,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "believe light"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_76.webp",
+      "cover": "covers/Single_76.webp"
+    },
+    {
+      "id": "Single_77",
+      "bpm": 190,
+      "title": "Pont des souvenirs",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.7,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "记忆之桥"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_77.webp",
+      "cover": "covers/Single_77.webp"
+    },
+    {
+      "id": "Single_78",
+      "bpm": 180,
+      "title": "青丘",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 10.5,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_78.webp",
+      "cover": "covers/Single_78.webp"
+    },
+    {
+      "id": "Single_79",
+      "bpm": 215,
+      "title": "インフェルノシティ",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11.5,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "地狱城"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_79.webp",
+      "cover": "covers/Single_79.webp"
+    },
+    {
+      "id": "Single_80",
+      "bpm": 155,
+      "title": "Upshift",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.8,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_80.webp",
+      "cover": "covers/Single_80.webp"
+    },
+    {
+      "id": "Single_81",
+      "bpm": 120,
+      "title": "Poison AND÷OR Affection",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 9.9,
+        "in": 15.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "潘多拉",
+        "pandora"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_81.webp",
+      "cover": "covers/Single_81.webp"
+    },
+    {
+      "id": "Single_82",
+      "bpm": 132,
+      "title": "Random",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 12.2,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_82.webp",
+      "cover": "covers/Single_82.webp"
+    },
+    {
+      "id": "Single_83",
+      "bpm": 120,
+      "title": "Bougainvillea",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.3,
+        "in": 13.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_83.webp",
+      "cover": "covers/Single_83.webp"
+    },
+    {
+      "id": "Single_84",
+      "bpm": 158,
+      "title": "Now Is The Time, Do It",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 11.2,
+        "in": 14.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_84.webp",
+      "cover": "covers/Single_84.webp"
+    },
+    {
+      "id": "Single_85",
+      "bpm": 140,
+      "title": "Rainy Heart",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.4,
+        "in": 12.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雨心"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_85.webp",
+      "cover": "covers/Single_85.webp"
+    },
+    {
+      "id": "Single_86",
+      "bpm": 174,
+      "title": "Realms",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 10.2,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_86.webp",
+      "cover": "covers/Single_86.webp"
+    },
+    {
+      "id": "Single_87",
+      "bpm": 200,
+      "title": "ぱぴぷぴぷぴぱ",
+      "difficulty": {
+        "ez": 5,
+        "hd": 12.3,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "papipupipupipa",
+        "拉面馆"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_87.webp",
+      "cover": "covers/Single_87.webp"
+    },
+    {
+      "id": "Single_88",
+      "bpm": 175,
+      "title": "Triumph & Regret",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.3,
+        "in": 15,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_88.webp",
+      "cover": "covers/Single_88.webp"
+    },
+    {
+      "id": "Single_89",
+      "bpm": 140,
+      "title": "Diamond Eyes",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 6.5,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "钻石眼"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_89.webp",
+      "cover": "covers/Single_89.webp"
+    },
+    {
+      "id": "Single_90",
+      "bpm": 180,
+      "title": "Bitterblossom",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 9.9,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_90.webp",
+      "cover": "covers/Single_90.webp"
+    },
+    {
+      "id": "Single_91",
+      "bpm": 160,
+      "title": "bye",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.1,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_91.webp",
+      "cover": "covers/Single_91.webp"
+    },
+    {
+      "id": "Single_92",
+      "bpm": 175,
+      "title": "聖夜讃歌",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.1,
+        "in": 15.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "圣夜赞歌"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_92.webp",
+      "cover": "covers/Single_92.webp"
+    },
+    {
+      "id": "Single_93",
+      "bpm": 175,
+      "title": "G.V.N. (Glitter, Vomitus and Neon)",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.9,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "GVN"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_93.webp",
+      "cover": "covers/Single_93.webp"
+    },
+    {
+      "id": "Single_94",
+      "bpm": 200,
+      "title": "Crush BETA",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10.5,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_94.webp",
+      "cover": "covers/Single_94.webp"
+    },
+    {
+      "id": "Single_95",
+      "bpm": 130,
+      "title": "Broken Sky",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.6,
+        "in": 13.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_95.webp",
+      "cover": "covers/Single_95.webp"
+    },
+    {
+      "id": "Single_96",
+      "bpm": 158,
+      "title": "BRAIN HACKER",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.3,
+        "in": 14.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "红键划划乐"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_96.webp",
+      "cover": "covers/Single_96.webp"
+    },
+    {
+      "id": "Single_97",
+      "bpm": 172,
+      "title": "Antithese",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.8,
+        "in": 15.4,
+        "at": 16.4
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "反命题"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_97.webp",
+      "cover": "covers/Single_97.webp"
+    },
+    {
+      "id": "Single_98",
+      "bpm": 174,
+      "title": "PRAGMATISM -RESURRECTION-",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.9,
+        "in": 16,
+        "at": 16.6
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "白复生",
+        "白魔王"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_98.webp",
+      "cover": "covers/Single_98.webp"
+    },
+    {
+      "id": "Single_99",
+      "bpm": 170,
+      "title": "Shine After",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.7,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_99.webp",
+      "cover": "covers/Single_99.webp"
+    },
+    {
+      "id": "Single_100",
+      "bpm": 150,
+      "title": "Bloom",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 11.2,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_100.webp",
+      "cover": "covers/Single_100.webp"
+    },
+    {
+      "id": "Single_101",
+      "bpm": 125,
+      "title": "今天不是明天",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 8.3,
+        "in": 13.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_101.webp",
+      "cover": "covers/Single_101.webp"
+    },
+    {
+      "id": "Single_102",
+      "bpm": 280,
+      "title": "Bounded Quietude",
+      "difficulty": {
+        "ez": 7,
+        "hd": 7.5,
+        "in": 16.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "BQ"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_102.webp",
+      "cover": "covers/Single_102.webp"
+    },
+    {
+      "id": "Single_103",
+      "bpm": 170,
+      "title": "Grimheart",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.9,
+        "in": 13.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "冷酷的心"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_103.webp",
+      "cover": "covers/Single_103.webp"
+    },
+    {
+      "id": "Single_104",
+      "bpm": 190,
+      "title": "Thrash force",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.7,
+        "in": 15.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_104.webp",
+      "cover": "covers/Single_104.webp"
+    },
+    {
+      "id": "Single_105",
+      "bpm": 200,
+      "title": "Originally",
+      "difficulty": {
+        "ez": 1,
+        "hd": 9.3,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_105.webp",
+      "cover": "covers/Single_105.webp"
+    },
+    {
+      "id": "Single_106",
+      "bpm": 198,
+      "title": "Schadenfreude",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.6,
+        "in": 15.1,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "幸灾乐祸"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_106.webp",
+      "cover": "covers/Single_106.webp"
+    },
+    {
+      "id": "Single_107",
+      "bpm": 188,
+      "title": "Le temps perdu",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9,
+        "in": 12.3,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "消逝的时光"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_107.webp",
+      "cover": "covers/Single_107.webp"
+    },
+    {
+      "id": "Single_108",
+      "bpm": 150,
+      "title": "Fixations Toward the Stars",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 10.9,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "望星"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_108.webp",
+      "cover": "covers/Single_108.webp"
+    },
+    {
+      "id": "Single_109",
+      "bpm": 175,
+      "title": "valor/starcross",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.7,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "穿星"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_109.webp",
+      "cover": "covers/Single_109.webp"
+    },
+    {
+      "id": "Single_110",
+      "bpm": 180,
+      "title": "Comet",
+      "difficulty": {
+        "ez": 3,
+        "hd": 10.5,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "流星"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_110.webp",
+      "cover": "covers/Single_110.webp"
+    },
+    {
+      "id": "Single_111",
+      "bpm": 205,
+      "title": "白と黒のバケモノ",
+      "difficulty": {
+        "ez": 4,
+        "hd": 11.4,
+        "in": 15.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "白与黑的怪物",
+        "白黑"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_111.webp",
+      "cover": "covers/Single_111.webp"
+    },
+    {
+      "id": "Single_112",
+      "bpm": 167,
+      "title": "Devotion",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.6,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_112.webp",
+      "cover": "covers/Single_112.webp"
+    },
+    {
+      "id": "Single_113",
+      "bpm": 180,
+      "title": "Kirakira Noel Story!!",
+      "difficulty": {
+        "ez": 4,
+        "hd": 10.2,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_113.webp",
+      "cover": "covers/Single_113.webp"
+    },
+    {
+      "id": "Single_114",
+      "bpm": 170,
+      "title": "Shelter",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.8,
+        "in": 13.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_114.webp",
+      "cover": "covers/Single_114.webp"
+    },
+    {
+      "id": "Single_115",
+      "bpm": 220,
+      "title": "蝎虎天体 -Lacertid-",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.8,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_115.webp",
+      "cover": "covers/Single_115.webp"
+    },
+    {
+      "id": "Single_116",
+      "bpm": 170,
+      "title": "贝多芬祝福 (Beethoven Blessing)",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 10.3,
+        "in": 15,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_116.webp",
+      "cover": "covers/Single_116.webp"
+    },
+    {
+      "id": "Single_117",
+      "bpm": 155,
+      "title": "インマイマインド",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 9.2,
+        "in": 12.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "自我意识"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_117.webp",
+      "cover": "covers/Single_117.webp"
+    },
+    {
+      "id": "Single_118",
+      "bpm": 130,
+      "title": "ニライカナイ (NiraicA_nai Mix)",
+      "difficulty": {
+        "ez": 3,
+        "hd": 8.3,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_118.webp",
+      "cover": "covers/Single_118.webp"
+    },
+    {
+      "id": "Single_119",
+      "bpm": 210,
+      "title": "Swing Skip Drop",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.1,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "SSD"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_119.webp",
+      "cover": "covers/Single_119.webp"
+    },
+    {
+      "id": "Single_120",
+      "bpm": 140,
+      "title": "宇宙残骸少女 (Cosmic Dusty Girl)",
+      "difficulty": {
+        "ez": 6,
+        "hd": 10.2,
+        "in": 13.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_120.webp",
+      "cover": "covers/Single_120.webp"
+    },
+    {
+      "id": "Single_121",
+      "bpm": 144,
+      "title": "Alice in a xxxxxxxx",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.5,
+        "in": 15.8,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "爱丽丝"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_121.webp",
+      "cover": "covers/Single_121.webp"
+    },
+    {
+      "id": "Single_122",
+      "bpm": 185,
+      "title": "Frozen Heart",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.6,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "冰心"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_122.webp",
+      "cover": "covers/Single_122.webp"
+    },
+    {
+      "id": "Single_123",
+      "bpm": 150,
+      "title": "Helios",
+      "difficulty": {
+        "ez": 5.5,
+        "hd": 9.1,
+        "in": 14.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "太阳神"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_123.webp",
+      "cover": "covers/Single_123.webp"
+    },
+    {
+      "id": "Single_124",
+      "bpm": 234,
+      "title": "雪降り ~雪が降っている~",
+      "difficulty": {
+        "ez": 1.5,
+        "hd": 7.5,
+        "in": 12,
+        "at": 14
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雪降SP"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_124.webp",
+      "cover": "covers/Single_124.webp"
+    },
+    {
+      "id": "Single_125",
+      "bpm": 225,
+      "title": "Retribution ~ Cycle of Redemption ~",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.3,
+        "in": 16.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "报应SP"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_125.webp",
+      "cover": "covers/Single_125.webp"
+    },
+    {
+      "id": "Single_126",
+      "bpm": 194,
+      "title": "000 -Ain Soph Aur-",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 8.4,
+        "in": 14.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_126.webp",
+      "cover": "covers/Single_126.webp"
+    },
+    {
+      "id": "Single_127",
+      "bpm": 180,
+      "title": "So laggy! (feat. Uzumaki)",
+      "difficulty": {
+        "ez": 5,
+        "hd": 9.5,
+        "in": 14.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_127.webp",
+      "cover": "covers/Single_127.webp"
+    },
+    {
+      "id": "Single_128",
+      "bpm": 234,
+      "title": "BANGING STRIKE",
+      "difficulty": {
+        "ez": 5,
+        "hd": 10.2,
+        "in": 15.9,
+        "at": 16.8
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "大师赛决赛曲",
+        "BS"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_128.webp",
+      "cover": "covers/Single_128.webp"
+    },
+    {
+      "id": "Single_129",
+      "bpm": 128,
+      "title": "Locomotive",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.7,
+        "in": 13.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_129.webp",
+      "cover": "covers/Single_129.webp"
+    },
+    {
+      "id": "Single_130",
+      "bpm": 140,
+      "title": "最高傑作",
+      "difficulty": {
+        "ez": 4.5,
+        "hd": 9.3,
+        "in": 13.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "最高杰作"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_130.webp",
+      "cover": "covers/Single_130.webp"
+    },
+    {
+      "id": "Single_131",
+      "bpm": 185,
+      "title": "彼方へ、名もなき海辺より",
+      "difficulty": {
+        "ez": 3.5,
+        "hd": 8.1,
+        "in": 14.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "彼方"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_131.webp",
+      "cover": "covers/Single_131.webp"
+    },
+    {
+      "id": "Single_132",
+      "bpm": 192.333,
+      "title": "ABYSS MOTION 192.333",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9.7,
+        "in": 14.7,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_132.webp",
+      "cover": "covers/Single_132.webp"
+    },
+    {
+      "id": "Single_133",
+      "bpm": 174,
+      "title": "Xenophobia",
+      "difficulty": {
+        "ez": 6.5,
+        "hd": 12.6,
+        "in": 14.9,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "仇外",
+        "排外心理"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_133.webp",
+      "cover": "covers/Single_133.webp"
+    },
+    {
+      "id": "Single_134",
+      "bpm": 238,
+      "title": "Verrückt",
+      "difficulty": {
+        "ez": 7,
+        "hd": 12.7,
+        "in": 16.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "Verruckt",
+        "疯狂",
+        "癫狂"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_134.webp",
+      "cover": "covers/Single_134.webp"
+    },
+    {
+      "id": "Single_136",
+      "bpm": 150,
+      "title": "下一秒",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.5,
+        "in": 13.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_136.webp",
+      "cover": "covers/Single_136.webp"
+    },
+    {
+      "id": "Single_137",
+      "bpm": 188,
+      "title": "Snow Dance",
+      "difficulty": {
+        "ez": 4,
+        "hd": 8.3,
+        "in": 12.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "雪舞"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_137.webp",
+      "cover": "covers/Single_137.webp"
+    },
+    {
+      "id": "Single_138",
+      "bpm": 196,
+      "title": "亂★舞",
+      "difficulty": {
+        "ez": 2,
+        "hd": 7.5,
+        "in": 13.2,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "乱舞"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_138.webp",
+      "cover": "covers/Single_138.webp"
+    },
+    {
+      "id": "Single_139",
+      "bpm": 191,
+      "title": "Cleyera",
+      "difficulty": {
+        "ez": 5,
+        "hd": 11,
+        "in": 15.4,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_139.webp",
+      "cover": "covers/Single_139.webp"
+    },
+    {
+      "id": "Single_140",
+      "bpm": 223,
+      "title": "70 Minutes Fighters",
+      "difficulty": {
+        "ez": 7.5,
+        "hd": 12.5,
+        "in": 16.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_140.webp",
+      "cover": "covers/Single_140.webp"
+    },
+    {
+      "id": "Single_141",
+      "bpm": 240,
+      "title": "Gungnir Fracture",
+      "difficulty": {
+        "ez": 6,
+        "hd": 11.5,
+        "in": 16.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "冈裂",
+        "骨折冈"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_141.webp",
+      "cover": "covers/Single_141.webp"
+    },
+    {
+      "id": "Single_142",
+      "bpm": 260,
+      "title": "夢の降る日に",
+      "difficulty": {
+        "ez": 2.5,
+        "hd": 9.8,
+        "in": 16.6,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [
+        "梦降日"
+      ],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_142.webp",
+      "cover": "covers/Single_142.webp"
+    },
+    {
+      "id": "Single_143",
+      "bpm": 222,
+      "title": "Der Schneid",
+      "difficulty": {
+        "ez": 7,
+        "hd": 12,
+        "in": 16.1,
+        "at": 17.5
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_143.webp",
+      "cover": "covers/Single_143.webp"
+    },
+    {
+      "id": "Single_144",
+      "bpm": 182,
+      "title": "星拂云锦 feat. koi",
+      "difficulty": {
+        "ez": 4,
+        "hd": 9,
+        "in": 15.5,
+        "at": ""
+      },
+      "chapter": "单曲精选集",
+      "alias": [],
+      "cover_url": "https://kyou.net.cn/illustrations/Single_144.webp",
+      "cover": "covers/Single_144.webp"
+    }
+  ]
+}

@@ -39,10 +39,7 @@ HELP_TEXT = """Phigros 传分 / 查询
 /pgr set      查看/修改默认显示设置
 /pgr help     显示这份帮助"""
 
-CATALOG_CANDIDATES = [
-    Path("C:/Users/x2rs/Desktop/my_pgr_scores/songs.json"),  # 现有曲库
-    Path(__file__).resolve().parent / "songs.json",           # 插件自带（可选）
-]
+CATALOG_PATH = Path(__file__).resolve().parent / "songs.json"
 
 
 @register(PLUGIN_NAME, "whalebot2", "Phigros 传分", "1.0.0")
@@ -51,7 +48,18 @@ class PgrScore(Star):
         super().__init__(context)
         self.data_dir = Path(StarTools.get_data_dir(PLUGIN_NAME))
         self.data_dir.mkdir(parents=True, exist_ok=True)
-        self.db = ScoreDatabase(self.data_dir / "scores.db", catalog_paths=CATALOG_CANDIDATES)
+        self.db = ScoreDatabase(self.data_dir / "scores.db", catalog_paths=[CATALOG_PATH])
+        if not self.db.catalog:
+            logger.warning("[pgr_score] 曲库为空：%s 不存在，数据库里也没有历史曲库", CATALOG_PATH)
+        elif not CATALOG_PATH.is_file():
+            logger.info(
+                "[pgr_score] 未找到 %s，暂用数据库里的曲库（%d 首）", CATALOG_PATH, len(self.db.catalog)
+            )
+        else:
+            logger.info(
+                "[pgr_score] 曲库已加载：game_version=%s，%d 首",
+                self.db.game_version or "未知", len(self.db.catalog),
+            )
 
     async def terminate(self):
         self.db.close()
